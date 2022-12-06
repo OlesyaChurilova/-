@@ -4,23 +4,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hau3Btc1QfDQE_wMMbs7C_N1NyAAvqCzC0XbqCv7eA&s" className="App-logo" alt="logo" />
+      
+       
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Hello,Reach
         </p>
         <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+         Олеся Чурилова
         </p>
+        <p>89601438976</p>
+        <p>Мой родной город - Липецк <br/>
+        Численность населения сочттавляет около 500000 человек</p>
       </header>
     </div>
   );
